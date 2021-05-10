@@ -13,8 +13,13 @@ h6 {
   color: #444444;
 }
 
+img {
+  width: 70%;
+  height: 70%;
+}
+
 .bg-steel {
-  background-color: #5f788a;
+  background-color: #383838;
 }
 
 .site-header .navbar-nav .nav-link {
